@@ -1,5 +1,5 @@
 <template>
-    <RouterView />
+    <h1>login</h1>
 </template>
     
 <script setup lang='ts'>

@@ -1,5 +1,5 @@
 <template>
-    <RouterView />
+    <h1>index</h1>
 </template>
     
 <script setup lang='ts'>
@@ -9,3 +9,4 @@
 <style>
     
 </style>
+    
